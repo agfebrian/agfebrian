@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I'm currently working as a Front End Developer.
+  - Using HTML, CSS, Javascript, Bootstrap, Vuetify, Tailwindcss, Vue, Nuxt, Vuex, Pinia, Axios, Vite.
+- 🌱 I’m currently learning deeply about Web Technologies and Modern Javascript.
+- 💬 Ask me about anything related to HTML, CSS, Javascript, Vue.
+- 📫 Reach out to me through (Linkedin)[https://www.linkedin.com/in/anggi-febriana-6639341b5/].
+- 😄 Pronouns: he/him.
+
 <!--
 **agfebrian/agfebrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
